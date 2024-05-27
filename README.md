@@ -1,6 +1,6 @@
 # Initial report
 >[!WARNING]
->This report was initially published yesterday at 02:00 UTC ( **Issue ID #85** ) before being widely copied by some people. Following spam on GitHub, unfortunately, my report was deleted. Furthermore, some users have edited their report by adding the clusters found below, or have included them in the comments. Please double-check the timestamping.
+>This report was initially published the May 18th at 02:00 UTC ( **Issue ID #85** ) before being widely copied by some people. Following spam on GitHub, unfortunately, my report was deleted. Furthermore, some users have edited their report by adding the clusters found below, or have included them in the comments. Please double-check the timestamping.
 
 # Reported Addresses
 
